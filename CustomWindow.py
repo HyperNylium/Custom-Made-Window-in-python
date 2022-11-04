@@ -3,7 +3,7 @@ from tkinter import PhotoImage
 from ctypes import windll
 
 
-tk_title = "Main Menu"
+tk_title = "Custom Window"
 
 root=Tk()
 root.title(tk_title) 
